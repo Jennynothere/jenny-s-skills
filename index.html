@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f5f5f2" />
+    <meta name="description" content="个人 AI Skill Library：按主题整理本地技能及其 GitHub 来源。" />
+    <title>Skill Library</title>
+    <link rel="stylesheet" href="./style.css" />
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="wordmark" href="#top" aria-label="Skill Library 首页">SL<span>.</span></a>
+      <span class="header-note">PERSONAL AI TOOLKIT</span>
+    </header>
+
+    <main id="top">
+      <section class="intro" aria-labelledby="page-title">
+        <p class="eyebrow">A growing collection</p>
+        <h1 id="page-title">Skill Library</h1>
+        <p class="intro-copy">把常用的 AI 技能收在一处，清晰浏览，随时回到原始仓库。</p>
+      </section>
+
+      <section class="overview-section" aria-labelledby="overview-title">
+        <div class="section-heading">
+          <div><p class="eyebrow">目录</p><h2 id="overview-title">六大分类</h2></div>
+          <span class="section-note">选择分类可快速定位</span>
+        </div>
+        <div id="category-overview" class="overview-grid" aria-live="polite"></div>
+      </section>
+
+      <section class="library-section" aria-labelledby="library-title">
+        <div class="section-heading library-heading">
+          <div><p class="eyebrow">完整清单</p><h2 id="library-title">全部 Skills</h2></div>
+          <span id="skill-total" class="section-note"></span>
+        </div>
+        <div id="skill-categories" class="category-list" aria-live="polite"></div>
+      </section>
+    </main>
+
+    <footer><span>Skill Library</span><span>数据由 <code>skills.json</code> 管理</span></footer>
+  </body>
+</html>
