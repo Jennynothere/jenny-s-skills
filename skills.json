@@ -1,0 +1,113 @@
+{
+  "categories": [
+    {
+      "id": "topics",
+      "name": "选题与热点",
+      "icon": "⌕",
+      "summary": "爆款追踪 · 热点发现",
+      "skills": [
+        { "name": "creator-buddy", "url": "https://github.com/SpaceZephyr/creator-buddy" },
+        { "name": "last30days-cn", "url": null },
+        { "name": "anysearch", "url": null }
+      ]
+    },
+    {
+      "id": "content",
+      "name": "内容生产",
+      "icon": "✳",
+      "summary": "脚本 · 剪辑 · 封面",
+      "skills": [
+        { "name": "human-writing", "url": null },
+        { "name": "humanizer", "url": "https://github.com/blader/humanizer" },
+        { "name": "humanizer-zh", "url": "https://github.com/op7418/Humanizer-zh" },
+        { "name": "post-to-xhs", "url": null },
+        { "name": "seedance-prompt-en", "url": "https://github.com/dexhunter/seedance2-skill" },
+        { "name": "seedance-prompt-zh", "url": null },
+        { "name": "sepia", "url": null },
+        { "name": "sepia-hemingway", "url": null },
+        { "name": "sepia-recreate", "url": null },
+        { "name": "sepia-refactor", "url": null },
+        { "name": "sepia-review", "url": null },
+        { "name": "sepia-write", "url": null },
+        { "name": "yichen-jianying-edit", "url": null },
+        { "name": "app-promo-guide", "url": null },
+        { "name": "audio-processing-gen", "url": null },
+        { "name": "create-motion-graphics", "url": null },
+        { "name": "digital-human", "url": null },
+        { "name": "image-gen", "url": null },
+        { "name": "lipsync", "url": null },
+        { "name": "music", "url": null },
+        { "name": "pixel-processing-gen", "url": null },
+        { "name": "talking-head-guide", "url": null },
+        { "name": "ugc-ad-guide", "url": null },
+        { "name": "video-gen", "url": null },
+        { "name": "video-translation", "url": null },
+        { "name": "voice", "url": null },
+        { "name": "voice-isolation", "url": null }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "数据与研究",
+      "icon": "⌗",
+      "summary": "采集 · 分析 · 报告",
+      "skills": [
+        { "name": "web-browser", "url": null },
+        { "name": "visual-analysis", "url": null },
+        { "name": "transcription", "url": null },
+        { "name": "multicam-sync", "url": null }
+      ]
+    },
+    {
+      "id": "automation",
+      "name": "Agent 自动化",
+      "icon": "⟲",
+      "summary": "工作流 · 定时任务",
+      "skills": [
+        { "name": "computer-use", "url": null },
+        { "name": "skill-capture", "url": null },
+        { "name": "widget-forms", "url": null },
+        { "name": "skill-creator", "url": null }
+      ]
+    },
+    {
+      "id": "knowledge",
+      "name": "知识管理",
+      "icon": "▤",
+      "summary": "整理 · 检索 · 链接",
+      "skills": [
+        { "name": "cangjie-skill", "url": null },
+        { "name": "acceptance", "url": null },
+        { "name": "decision-heuristics", "url": null },
+        { "name": "game-selection", "url": null },
+        { "name": "happiness-skill", "url": null },
+        { "name": "honesty-communication", "url": null },
+        { "name": "hourly-rate-time", "url": null },
+        { "name": "identity-work", "url": null },
+        { "name": "judgment-training", "url": null },
+        { "name": "life-meaning", "url": null },
+        { "name": "long-term-compounding", "url": null },
+        { "name": "monkey-mind-meditation", "url": null },
+        { "name": "peer-selection", "url": null },
+        { "name": "principal-agent", "url": null },
+        { "name": "productize-yourself", "url": null },
+        { "name": "rational-buddhism", "url": null },
+        { "name": "reading-metaskill", "url": null },
+        { "name": "screen-detox", "url": null },
+        { "name": "self-liberation", "url": null },
+        { "name": "wealth-structure", "url": null },
+        { "name": "huashu-nuwa", "url": "https://github.com/alchaincyf/nuwa-skill" },
+        { "name": "goutoujunshi", "url": "https://github.com/shengjidaguai-china/goutoujunshi" }
+      ]
+    },
+    {
+      "id": "development",
+      "name": "开发与工具",
+      "icon": "⌘",
+      "summary": "GitHub · 环境配置",
+      "skills": [
+        { "name": "product-help", "url": null }
+      ]
+    }
+  ]
+}
